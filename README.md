@@ -1,13 +1,13 @@
-# Resume-Parser
+# RESUME-PARSER
 
-# STEP 1:  INSTALLATION
-## !pip install pyresparser
+## STEP 1:  INSTALLATION
+### !pip install pyresparser
 
-# STEP 2: IMPORTING NLTK
+## STEP 2: IMPORTING NLTK
 
-# STEP 3:DOWNLOADING STOPWORDS IN NLTK
+## STEP 3:DOWNLOADING STOPWORDS IN NLTK
 
-# STEP 4:COPY PATH FROM DRIVE
+## STEP 4:COPY PATH FROM DRIVE
 
 To copy the path of the file from the drive, first one must follow the below steps.
 
@@ -19,4 +19,4 @@ To copy the path of the file from the drive, first one must follow the below ste
 
 ### 4 Right click, copy the path, and paste it into the cell where you will run to get the output
 
-# OUTPUT
+## OUTPUT
